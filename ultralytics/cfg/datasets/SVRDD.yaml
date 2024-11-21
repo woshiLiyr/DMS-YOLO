@@ -1,0 +1,18 @@
+path: /xxx/xxx/SVRDD  # dataset root dir
+train: 
+    - images/train  # train images (relative to 'path')  6471 images
+val: 
+    - images/val  # val images (relative to 'path')  548 images
+test: 
+    - images/test  # test images (optional)  1610 images
+
+# Classes
+names:
+  0: longitudinal cracks
+  1: transverse cracks
+  2: alligator cracks
+  3: potholes
+  4: longitudinal patches
+  5: transverse patches
+  6: manhole
+
