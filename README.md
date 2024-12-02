@@ -70,4 +70,4 @@ road defect detection; YOLOv8；characteristic pyramid network; dynamic detectio
 
 ### Concat
 
-Yongran Li (202308540421037@ctgu.edu.cn) 
+Yongran Li (lliyr@qq.com) 
